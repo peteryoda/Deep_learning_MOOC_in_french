@@ -15,7 +15,7 @@ This includes :
   - Convolutional Neural Networks
   - Sequence Models 
 
-Michael Nielsen proposes in "How the backpropagation algorithm works"
+Michael Nielsen proposes in *"How the backpropagation algorithm works"*
 on its website : http://neuralnetworksanddeeplearning.com/chap2.html, the presentation of the Backprop algorithm.
 In this repository, my personal notes about the equations of backprop of Michael Nielsen
 are available in "compléments_cours_1_semaine_4". I present also some proofs about the equations of backprop of Andrew Ng
