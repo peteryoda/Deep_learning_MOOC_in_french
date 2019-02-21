@@ -1,4 +1,4 @@
-# Deep_learning_MOOC_in_french
+## Deep learning MOOC in french 
 
 I made summaries in french of the lessons of the Coursera Deep Learning Specialization (Andrew Ng MOOC): https://www.coursera.org/specializations/deep-learning
 This includes :
